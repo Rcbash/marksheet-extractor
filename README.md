@@ -23,7 +23,7 @@ An API that takes a marksheet (image or PDF) as input and returns a structured J
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/Rcbash/marksheet-extractor.git
     cd marksheet-extractor
     ```
 2.  **Create a virtual environment and install dependencies:**
