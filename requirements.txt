@@ -1,0 +1,10 @@
+# In requirements.txt
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pillow
+pytesseract
+PyMuPDF
+python-dotenv
+google-generativeai
